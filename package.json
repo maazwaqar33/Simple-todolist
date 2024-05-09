@@ -1,11 +1,11 @@
 {
-  "name": "myatmcli",
+  "name": "maazwaqartodoprj",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "myatmcli": "./index.js"
+    "maazwaqartodoprj": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
